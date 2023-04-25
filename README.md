@@ -5,6 +5,7 @@ CSC Racing!
 Using Object Oriented Design methodologies, write a program that simulates a car racing game.
 
 Game: 
+
 The user will race against the CPU on a given track.  The race will consist of a user car and 2 CPU cars.  Each car will move during their turn in any order you decide.  The first of the 3 cars to reach the finish line wins.
 
 Track:
